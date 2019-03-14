@@ -1,0 +1,5 @@
+#Nubia add for flycow
+service flycow /system/bin/flycow
+    class main
+    socket flycow stream 666 system system
+#nubia END

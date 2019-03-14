@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<permissions>
+<library name="com.goodix.fingerprint.permissions" file="/system/framework/goodix_fingerprintmanager.jar" />
+<library name="com.lenovo.fpc.fingermanager" file="/system/framework/goodix_fingerprintmanager.jar" />
+</permissions>

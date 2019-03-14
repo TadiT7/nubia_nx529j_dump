@@ -1,0 +1,1 @@
+<client><apps><app name="com.lucid.example2"><power_states><normal_save><ice_param>0</ice_param></normal_save><high_save><ice_param>0</ice_param></high_save><ultra_save><ice_param>0</ice_param></ultra_save></power_states></app></apps><auto_mode_config>game</auto_mode_config></client>
